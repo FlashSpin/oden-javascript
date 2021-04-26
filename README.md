@@ -1,0 +1,1 @@
+some odin project javascript warm up stuff. I still have 0% confidence in javascript.
