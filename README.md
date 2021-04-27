@@ -1,1 +1,2 @@
 some odin project javascript warm up stuff. I still have 0% confidence in javascript.
+The project is really starting to pick up the pace, its starting to feel like I'm unerestanding concepts. (Fundimentals 2, Strings)
